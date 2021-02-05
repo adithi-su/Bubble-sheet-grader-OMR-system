@@ -1,5 +1,5 @@
 # Bubble-sheet-multiple-choice-scanner-and-test-grader
-Building a bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV
+Building a bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV as an extension to <a href="https://github.com/adithi-su/Document-Scanner">https://github.com/adithi-su/Document-Scanner</a>
 <br>
 Steps involved - <br>
 <ol>
